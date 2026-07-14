@@ -59,42 +59,6 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
----
-
-## 📫 联系我 (Contact Me)
-
-<p>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-4d96ff?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/CSDN-DC2626?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"/>
-  </a>
-</p>
-
-- 📧 **How to reach me**: [Email](mailto:your@email.com)
-- 💬 **Ask me about anything**, I am happy to help;
-
----
-
-## 🐾 Snoopy 语录
-
-<div align="center">
-
-| 🌊 语录 | 💭 含义 |
-|:---|:---|
-| *Life is like an ice cream, enjoy it before it melts.* | 享受当下 |
-| *Yesterday I was a dog, today I'm a dog...* | 坚持自我 |
-| *Happiness is a warm puppy.* | 简单即幸福 |
-| *Don't worry about the world coming to an end today.* | 别焦虑 |
-
-</div>
 
 ---
 
@@ -102,7 +66,7 @@
 
 ### 🐶 *"Happiness is a warm puppy."* 🐶
 
-<img src="https://komarev.com/ghpvc/?username=你的用户名&color=4d96ff&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=xiaoshi22-ops&color=4d96ff&style=for-the-badge&label=Profile+Views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4d96ff,6bb6ff,87ceeb,add8e6,b0e0e6&height=100&section=footer"/>
 
