@@ -23,7 +23,7 @@
 |:---|:---|
 | 🐶 昵称：Xiao Shi | 🔭 正在做：LLM Agent & RAG |
 | 🎓 学校：Southeast University | 🌱 最近在学：Rust & Distributed Systems |
-| 💼 职业：Algorithm Engineer | 💬 联系我：your@email.com |
+| 💼 职业：Algorithm Engineer | 💬 联系我：280197482@qq.com |
 | 📍 坐标：Nanjing, China | 🎯 目标：成为一名优秀的工程师 |
 | 🌸 爱好：Coding / Snoopy / Anime / Cat | ⚡ 小趣事：我家有一只小猫 🐱 |
 
